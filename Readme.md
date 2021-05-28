@@ -30,6 +30,7 @@ shadowsocksR.sh
 ===============
 - Auto Install ShadowsocksR Server for CentOS/Debian/Ubuntu
 - https://shadowsocks.be/9.html
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh && chmod +x shadowsocksR.sh &&./shadowsocksR.sh
 
 shadowsocks-all.sh
 ==================
