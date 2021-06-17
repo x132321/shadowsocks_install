@@ -44,6 +44,7 @@ chmod +x shadowsocksR.sh
 日志文件路径：/var/log/shadowsocks.log
 代码安装目录：/usr/local/shadowsocks
 ```
+```
 多用户配置示例：
 
 {
@@ -68,11 +69,12 @@ chmod +x shadowsocksR.sh
 "workers": 1
 }
 ```
+```
 如果你想修改配置文件，请参考：
 https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/Server-Setup
 https://github.com/shadowsocksr-backup/shadowsocks-rss/blob/master/ssr.md
 https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/config.json
-
+```
 
 shadowsocks-all.sh
 ==================
